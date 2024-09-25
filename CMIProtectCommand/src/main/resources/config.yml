@@ -1,0 +1,13 @@
+
+
+settings:
+  whitelist:
+    - zTaiSiamz
+
+
+blocked_permission:
+  - '*'
+
+blocked_commands:
+  - '/gamemode 1'
+  - '/gm 1'

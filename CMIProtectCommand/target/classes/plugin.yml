@@ -1,0 +1,9 @@
+name: CMIProtectCommand
+version: '1.0-SNAPSHOT'
+main: net.xsapi.panat.cmiprotectcommand.core
+api-version: '1.20'
+depend:
+  - LuckPerms
+commands:
+  cmiprotectcmd:
+    description: main commands

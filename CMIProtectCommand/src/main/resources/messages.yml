@@ -1,0 +1,10 @@
+banMessage:
+  - "<red>CMIProtectCommand"
+  - ""
+  - "<yellow>คุณถูกแบนเนื่องจากพบสิ่งผิดปกติ"
+kickMessage:
+  - "<red>CMIProtectCommand"
+  - ""
+  - "<yellow>คุณถูกเตะเนื่องจากพบสิ่งผิดปกติ"
+reloaded: "<color:#1BCB00>ทำการรีโหลดระบบแล้ว"
+permission: "<red>คุณไม่มีสิทธิใช้งานคำสั่ง"

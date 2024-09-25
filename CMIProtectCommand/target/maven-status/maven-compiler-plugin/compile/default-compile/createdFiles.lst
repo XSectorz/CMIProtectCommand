@@ -1,0 +1,12 @@
+net\xsapi\panat\cmiprotectcommand\utils\XSUtils$1$1.class
+net\xsapi\panat\cmiprotectcommand\core$1.class
+net\xsapi\panat\cmiprotectcommand\config\configLoader.class
+net\xsapi\panat\cmiprotectcommand\config\messagesConfig.class
+net\xsapi\panat\cmiprotectcommand\listeners\eventLoader.class
+net\xsapi\panat\cmiprotectcommand\core.class
+net\xsapi\panat\cmiprotectcommand\commands\command.class
+net\xsapi\panat\cmiprotectcommand\config\mainConfig.class
+net\xsapi\panat\cmiprotectcommand\commands\commandLoader.class
+net\xsapi\panat\cmiprotectcommand\utils\XSUtils$1.class
+net\xsapi\panat\cmiprotectcommand\listeners\playerCommandEvent.class
+net\xsapi\panat\cmiprotectcommand\utils\XSUtils.class
